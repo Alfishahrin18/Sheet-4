@@ -1,5 +1,5 @@
 # Sheet-4
-Solved code problems of Sheet#4(String)
+Solved code problems of Sheet#4(Strings)
 
 ## Details:
 ### Course Code: CCE-2310
